@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <img alt="my stats" align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=Ferreira9006&show_icons=true" />
 <img alt="language stats" align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreira9006&layout=compact" />
+-->
