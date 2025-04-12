@@ -1,5 +1,66 @@
 ## Hi, I'm Gabriel 👋
 
+Detail-oriented programmer with expertise in full-stack development and collaborative projects.  
+Currently pursuing a degree in Informatics Engineering to consolidate my knowledge and expand my expertise in programming.
+
+---
+
+## 🚀 Skills & Tools
+
+### 🖥️ Languages  
+C#, PHP, JavaScript, Python, Dart, HTML5, CSS3, JSON
+
+### 🧰 Frameworks & Libraries  
+Laravel, Flutter, Flask, Bootstrap, Tailwind CSS
+
+### 🛢️ Databases  
+MySQL, MariaDB, SQL Server
+
+### 🧩 CMS & Platforms  
+WordPress
+
+### 🔧 Tools & DevOps  
+Git, GitHub, VS Code, Visual Studio, Nginx
+
+### 💻 Operating Systems  
+Linux, Windows, macOS
+
+---
+
+## 🌐 Open Source Projects
+
+### 🔐 [PHP File Manager](https://github.com/Ferreira9006/PHP-File-Manager)  
+A secure, web-based file manager with login system and DB integration. *(WIP)*
+
+### 🧮 BaseJump *(Private)*  
+A clean Flutter app for converting numbers between binary, octal, decimal, and hexadecimal.
+
+### 🎟️ [Tickdesk](https://github.com/Ferreira9006/pws-tickdesk)  
+Laravel-based ticket support system for managing user requests. *(In development)*
+
+### 🧙 [AzerothCore Registration Page](https://github.com/Ferreira9006/azerothcore-registration-page)  
+Registration UI for WoW AzerothCore servers with DB validation and hashing.
+
+### 🐞 [Flawless Bugtracker](https://github.com/Ferreira9006/Flawless-Bugtracker-Website)  
+Minimal bug tracking system — users can report bugs without authentication.
+
+### 📘 [Learning Projects](https://github.com/Ferreira9006/Learning-Projects)  
+University exercises, coding challenges, and prototypes across different tech stacks.
+
+📌 *More coming soon! Feel free to explore, fork, or contribute.*
+
+---
+
+<!--## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ferreira9006&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreira9006&layout=compact" height="160"/>
+</p>
+
+
+<!-- ## Hi, I'm Gabriel 👋
+
 Detail-oriented programmer with expertise in full-stack development and collaborative projects.
 Currently pursuing a degree in Informatics Engineering to consolidate my knowledge and expand my expertise in programming.
 
@@ -36,13 +97,56 @@ Currently pursuing a degree in Informatics Engineering to consolidate my knowled
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="macOS" />
 </div>
 
-### 🧩 Other
-<div align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="28" alt="Office" />
-  <img src="https://img.shields.io/badge/Adobe-Photoshop%2C%20Illustrator%2C%20InDesign-%23ff0000?style=for-the-badge&logo=adobe&logoColor=white" height="28" alt="Adobe" />
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" height="28" alt="Teams" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="28" alt="Trello" />
-</div>
+
+## 🌐 Open Source Projects
+
+Here are some open source projects I've built or actively maintain:
+
+---
+
+### 🔐 [PHP File Manager](https://github.com/Ferreira9006/PHP-File-Manager)
+![PHP](https://img.shields.io/badge/PHP-8.0%2B-blue?logo=php) ![MySQL](https://img.shields.io/badge/MySQL-Database-informational?logo=mysql) ![WIP](https://img.shields.io/badge/status-in%20development-yellow)
+
+A secure, web-based file manager built with PHP. Features include MySQL-based login system, session handling, and responsive UI. File upload, editing, and email alerts are coming soon.
+
+---
+
+### 🧮 BaseJump *(Private for now)*
+![Flutter](https://img.shields.io/badge/Flutter-App-blue?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-Language-lightblue?logo=dart)
+
+A modern Flutter app to convert numbers between Binary, Octal, Decimal, and Hexadecimal. Includes validation, history, and a modular architecture using custom widgets and models.
+
+---
+
+### 🎟️ [Tickdesk](https://github.com/Ferreira9006/pws-tickdesk)
+![Laravel](https://img.shields.io/badge/Laravel-Framework-red?logo=laravel) ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38bdf8?logo=tailwindcss) ![WIP](https://img.shields.io/badge/status-in%20development-yellow)
+
+A work-in-progress Laravel ticketing system. Built for teams that need to manage support requests efficiently, with features like ticket states, roles, dashboards, and email integration planned.
+
+---
+
+### 🧙 [AzerothCore Registration Page](https://github.com/Ferreira9006/azerothcore-registration-page)
+![PHP](https://img.shields.io/badge/PHP-7.4+-blue?logo=php) ![Game](https://img.shields.io/badge/WoW-Private%20Server-informational)
+
+A user-friendly registration page for AzerothCore World of Warcraft servers. Built to integrate directly with the emulator's MySQL database using secure password hashing and validation.
+
+---
+
+### 🐞 [Flawless Bugtracker](https://github.com/Ferreira9006/Flawless-Bugtracker-Website)
+![Bug Tracking](https://img.shields.io/badge/Bugtracker-Open%20Access-orange) ![PHP](https://img.shields.io/badge/PHP-7.5%2B-blue?logo=php)
+
+A simplified bug tracking tool that allows anyone to report bugs without logging in. Includes admin tools, error handling, and is tailored for WoWEmu communities.
+
+---
+
+### 📘 [Learning Projects](https://github.com/Ferreira9006/Learning-Projects)
+![Learning](https://img.shields.io/badge/Learning-Full%20Stack-blueviolet) ![Active](https://img.shields.io/badge/Status-Active-brightgreen)
+
+A central repository containing university coursework, coding exercises, and prototype applications. Covers multiple languages, frameworks, and concepts — showing a diverse and consistent learning journey.
+
+---
+
+📌 *More coming soon! Feel free to explore, fork, or contribute.*
 
 
 <!--
