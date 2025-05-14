@@ -32,7 +32,7 @@ Linux, Windows, macOS
 ### 🔐 [PHP File Manager](https://github.com/Ferreira9006/PHP-File-Manager)  
 A secure, web-based file manager with login system and DB integration. *(WIP)*
 
-### 🧮 BaseJump *(Private)*  
+### 🧮 [BaseJump](https://github.com/Ferreira9006/BaseJump)  
 A clean Flutter app for converting numbers between binary, octal, decimal, and hexadecimal.
 
 ### 🎟️ [Tickdesk](https://github.com/Ferreira9006/pws-tickdesk)  
