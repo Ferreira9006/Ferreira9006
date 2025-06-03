@@ -1,9 +1,9 @@
 ## Hi, I'm Gabriel 👋
 
 I've been in love with programming since 2016, and every day I aim to learn something new and improve my skills. I'm
-passionate about solving problems through code and turning ideas into real, functional solutions.
+passionate about solving problems through code and turning ideas into real, functional solutions.<br>
 When I'm not in front of a computer, you'll find me spending time with my family, exploring new places, or learning something
-completely different — just for the fun of it.
+completely different — just for the fun of it.<br>
 Right now, I'm pursuing a Bachelor's Degree in Computer Engineering to solidify my knowledge and dive deeper into the
 world of technology. I'm always open to new challenges and opportunities to grow.
 
