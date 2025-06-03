@@ -1,7 +1,11 @@
 ## Hi, I'm Gabriel 👋
 
-Detail-oriented programmer with expertise in full-stack development and collaborative projects.  
-Currently pursuing a degree in Informatics Engineering to consolidate my knowledge and expand my expertise in programming.
+I've been in love with programming since 2016, and every day I aim to learn something new and improve my skills. I'm
+passionate about solving problems through code and turning ideas into real, functional solutions.
+When I'm not in front of a computer, you'll find me spending time with my family, exploring new places, or learning something
+completely different — just for the fun of it.
+Right now, I'm pursuing a Bachelor's Degree in Computer Engineering to solidify my knowledge and dive deeper into the
+world of technology. I'm always open to new challenges and opportunities to grow.
 
 ---
 
